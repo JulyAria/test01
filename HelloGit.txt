@@ -10,7 +10,7 @@ hello world hello git
 hello world hello git
 hello world hello git
 hello world hello git
-hello world hello git master second change
+hello world hello git master second
 hello world hello git hot-fix 
 hello world hello git
 hello world hello git
